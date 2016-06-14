@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FinalNoteTaking2</string>
+    <string name="google_app_id">AIzaSyBNotse_ouwP7SfcUlQzI5rXlqwLGr9QH4</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_label_editor">Note</string>
+    <string name="string_delete">Delete</string>
+    <string name="string_note_deleted">Note Deleted</string>
+    <string name="string_note_updated">Note Updated</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="sub_title">subTitle</string>
+    <string name="string_add">Add</string>
+    <string name="take_pic">Take a Picture</string>
+    <string name="cannot_connect_map">Can\'t connect to Mapping service</string>
+    <string name="ready_to_map">Ready to Map</string>
+    <string name="failed_to_map">Failed to Map</string>
+    <string name="cannot_connect">Couldn\'t connect</string>
+    <string name="record_audio">Record Audio</string>
+    <string name="are_you_sure_audio">Already Exists. It will be deleted.</string>
+</resources>
